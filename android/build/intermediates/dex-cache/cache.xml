@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kareem Alshanti\ReactProjects\TESSSTTTT\React-Native-Camera-Tutorial-master\node_modules\react-native-camera\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9161da891dd3c9ae10d21b1a1f9f1b0ff683cfe">
+        <dex dex="C:\Users\Kareem Alshanti\ReactProjects\TESSSTTTT\React-Native-Camera-Tutorial-master\android\app\build\intermediates\pre-dexed\debug\classes_9c284532009cbfa3c559968c8dd497b3c4aa5eae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kareem Alshanti\ReactProjects\TESSSTTTT\React-Native-Camera-Tutorial-master\node_modules\react-native-randombytes\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5222163036023379ce7f4e2f798d61185c87ae5a">
+        <dex dex="C:\Users\Kareem Alshanti\ReactProjects\TESSSTTTT\React-Native-Camera-Tutorial-master\android\app\build\intermediates\pre-dexed\debug\classes_915cf1fdb9d29f15438245b6066db6b06a508085.jar" />
+    </item>
+
+</items>
