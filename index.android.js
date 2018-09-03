@@ -11,8 +11,6 @@ import {
   Text,
   View
 } from 'react-native';
-
-import Camera from 'react-native-camera'
 import App from './App.js'
 
 export default class cameraTutorial extends Component {
@@ -23,4 +21,4 @@ export default class cameraTutorial extends Component {
   }
 }
 
-AppRegistry.registerComponent('CSE Attendance', () => cameraTutorial);
+AppRegistry.registerComponent('cameraTutorial', () => cameraTutorial);

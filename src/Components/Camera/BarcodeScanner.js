@@ -94,7 +94,7 @@ export default class BarcodeScanner extends Component {
     barcodeReceived = (e) => {
         AsyncStorage.getItem('guid').then((data)=>{
             guid=data;
-            Toast.show('guid: ' + guid);
+            //Toast.show('guid: ' + guid);
             if(e.type == 'QR_CODE'){
                 //Toast.show('Type: ' + e.type + '\nData: ' + e.data);
             let formData = new FormData();

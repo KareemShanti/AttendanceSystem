@@ -23,4 +23,4 @@ export default class cameraTutorial extends Component {
   }
 }
 
-AppRegistry.registerComponent('CSE Attendace', () => cameraTutorial);
+AppRegistry.registerComponent('cameraTutorial', () => cameraTutorial);
